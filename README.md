@@ -6,11 +6,6 @@
 
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 1rem;">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-valsechi&bg_color=0d1117&color=79818c&line=7896a2&point=7896a2&area=true&hide_border=true" alt="Gustavo Valsechi github stats" /> 
-  
-  <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-valsechi&show_icons=true&count_private=true&hide_border=true&title_color=eeeeee&icon_color=ffffff&text_color=7896a2&bg_color=0d1117" alt="Gustavo Valsechi github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-valsechi&layout=compact&hide_border=true&title_color=eeeeee&text_color=7896a2&bg_color=0d1117" />
-  </div>
 </div>
 
 <br/>
